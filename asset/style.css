@@ -129,7 +129,7 @@ html {
 /* Slider */
 .slider {
     padding-top: 50%;
-    background-image: url(./asset/image/ny.jpg);
+    background-image: url(./image/ny.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 46px;
