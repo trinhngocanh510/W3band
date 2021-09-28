@@ -1,0 +1,71 @@
+/* BREAK POINT */
+
+/* PC */
+@media (min-width: 64em) {
+    
+}
+
+/* Tablet */
+@media (min-width: 46.25em) and (max-width: 63.9375em) {
+    
+}
+
+/* Mobile */
+@media (max-width:46.1875em) {
+
+    .s-col-full {
+        width: 100%;
+    }
+
+    .header {
+        overflow: hidden;
+        
+    }
+
+    .header .nav-btn {
+        display: inline;  
+        float: none;
+    }
+
+    .header .nav-btn:first-child {
+        display: inline-block;
+    }
+
+    .nav-menu .subnav-menu {
+        position: initial;
+        width: 100%;
+        background-color: #333;
+    }
+
+    .subnav-menu a {
+        color: #fff;
+        padding: 5px 50px;
+    }
+
+    .subnav:hover a {
+        color: #000;
+    }
+
+    .nav-search-btn {
+        display: none;
+    }
+
+    .nav-menu-mobile {
+        display: block;
+        position: absolute;
+        top: 0;
+        right: 0;
+        color: #fff;
+        padding: 0px 24px;
+        line-height: 46px !important;
+    }
+    
+    .nav-menu-mobile:hover {
+        color:#000;
+        background-color: #ccc;
+    }
+
+    .contact-user--border {
+        margin-top: 0;
+    }
+} 
