@@ -327,6 +327,10 @@ html {
 
 .footer {
     text-align: center;
+    font-size: 22px;
+}
+
+.footer p {
     font-size: 18px;
 }
 
@@ -338,8 +342,7 @@ html {
     padding: 4px 4px;
     border-radius: 30%;
     background-color: #ccc;
-    margin: 5px;
-    font-size: 22px;
+    margin: 3px;
 }
 
 .social-list i:hover {
