@@ -339,6 +339,7 @@ html {
     border-radius: 30%;
     background-color: #ccc;
     margin: 5px;
+    font-size: 22px;
 }
 
 .social-list i:hover {
